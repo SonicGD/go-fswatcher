@@ -1,4 +1,4 @@
-# # Go-fswatcher
+# Go-fswatcher
 
 Util to monitor file changes and run commands on event written in Go
 
