@@ -1,0 +1,5 @@
+vendor
+.vscode
+*.exe
+debug
+go-fswatcher

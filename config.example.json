@@ -1,0 +1,6 @@
+[
+  {
+    "Path": "/tmp/foo",
+    "Commands": ["ping -c 4 ya.ru", "traceroute ya.ru"]
+  }
+]
