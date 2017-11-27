@@ -1,5 +1,4 @@
 vendor
 .vscode
-*.exe
 debug
-go-fswatcher
+go-fswatcher*
